@@ -1,0 +1,11 @@
+name = "tatsu-rep-bot"
+type = "javascript"
+
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-29"
+
+
+[vars]
+CHANNEL=846181656514658304
